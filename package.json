@@ -1,7 +1,7 @@
 {
-	"name": "back-end",
+	"name": "node-server",
 	"version": "1.0.0",
-	"description": "",
+	"description": "A template for node server",
 	"main": "index.js",
 	"scripts": {
 		"build": "webpack",
@@ -9,8 +9,14 @@
 		"start": "node dist/main.js",
 		"test": "jest"
 	},
-	"keywords": [],
-	"author": "",
+	"keywords": [
+		"template",
+		"nodejs",
+		"express",
+		"webpack",
+		"jest"
+	],
+	"author": "Russel Dave Cruz",
 	"license": "ISC",
 	"devDependencies": {
 		"@babel/cli": "^7.13.14",

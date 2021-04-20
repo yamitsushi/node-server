@@ -29,11 +29,6 @@ This template uses Nodejs, Express, Babel, and Webpack
 
   > npm test
 
-        "build": "webpack",
-        "start": "nodemon --exec babel-node src",
-        "serve": "node dist/main.js",
-        "test": "jest"
-
 ## Running
 
 - serve using the command below
